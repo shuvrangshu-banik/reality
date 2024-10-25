@@ -1,0 +1,9 @@
+<html>
+<BODY bgcolor="Cyan">
+<H2><center><U>DETAIL OF THE IMAGE</U></center></h2>
+<center><img src="VR.jfif"></center>
+<p><font size="5">The image shows a person wearing a Virtual Reality (VR) headset, interacting with a 3D virtual environment. The individual appears to be manipulating a holographic interface or virtual objects, such as a human model, which is rendered in front of them.</font></p>
+<center><a href="VR.html"><img src="Screenshot_17-8-2024_211217_www.bing.com.jpeg" height="100" width="100"></a></center>
+<center><font size="5"> Click here to back </font></center>
+</body>
+</html>

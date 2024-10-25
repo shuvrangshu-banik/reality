@@ -1,0 +1,9 @@
+<html>
+<BODY bgcolor="Cyan">
+<H2><center><U>DETAIL OF THE IMAGE</U></center></h2>
+<center><img src="MR.jfif"></center>
+<p><font size="5">The image depicts a person holding a tablet or smart device in a warehouse environment, with an overlay of digital information onto the real-world scene. This represents the use of Mixed Reality (MR) technology, which combines elements of both Augmented Reality (AR) and the physical world to enhance real-world environments with interactive digital elements.</font></p>
+<center><a href="MR.html"><img src="Screenshot_17-8-2024_211217_www.bing.com.jpeg" height="100" width="100"></a></center>
+<center><font size="5"> Click here to back </font></center>
+</body>
+</html>

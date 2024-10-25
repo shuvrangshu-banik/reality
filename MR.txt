@@ -1,0 +1,37 @@
+<html>
+<body bgcolor="green">
+<center><h1><B><u>MIXED REALITY</u></b></h1></center>
+<center><table height="480" width="480" border="3">
+<tr>
+<th><h2>SUBPOINT</h2></th>
+<th><H2>description</H2></th> 
+</tr>
+<tr>
+<td><h3>Defination</h3></td>
+<td><font size="5">MR is a technology that combines elements of both VR and AR, allowing users to interact with both virtual and real-world objects simultaneously. MR typically uses a headset with transparent lenses that allow the user to see the real world while also seeing digital objects that are overlaid onto it. MR is often used in industrial settings for design and prototyping.</font></td>
+</tr>
+<tr>
+<td><h3>Usage</h3></td>
+<td><font size="5">
+<b>Gaming and Entertainment</b>
+<p>VMR technology can create immersive gaming experiences by allowing players to interact with virtual objects and characters in real-time. One example of this is the "HoloLens Minecraft Demo" by Microsoft, which showcases a mixed reality version of the popular game Minecraft: </p>
+<b>Education and Training</b>
+<p>MR can be used to create interactive and engaging educational content, allowing students to explore complex concepts and environments in a hands-on way. The "Transforming Medical Education with Microsoft HoloLens" by Case Western Reserve University is a great example of this, demonstrating how mixed reality can be used to visualize and interact with 3D models of the human body:</p>
+<b>Healthcare</b> 
+<p>MR has the potential to revolutionize healthcare by enabling doctors and medical professionals to visualize and manipulate patient data in new and innovative ways. The "Transforming Healthcare Delivery with Mixed Reality" by Microsoft demonstrates how mixed reality can be used to assist to solve current and future healthcare issues.</p>
+<b>Industrial Design and Architecture</b>
+<p>MR can be used to visualize and prototype new products and designs, allowing designers and engineers to explore and refine their ideas in real time. The "Microsoft HoloLens: Mixed Reality in the Modern Workplace" by Microsoft showcases how mixed reality can be used to create interactive 3D models of products and devices</p>
+<b>Collaboration and Communication</b>
+<p>MR can facilitate remote collaboration and communication by creating virtual workspaces where users can interact and collaborate in real-time. The "HoloLens Skype Demo" by Microsoft demonstrates how mixed reality can be used to enable remote collaboration and communication.</p>
+</font>
+</td>
+</tr>
+<tr>
+<td><h3>Image</h3></td>
+<td><center><a href="MRimage.html"><img src="MR.jfif" height="75%" width="75%"></a></center>
+<font size="5"> Click on the image for explaination </font>
+</td>
+</tr>
+</table></center>
+</body>
+</html>
